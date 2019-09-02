@@ -39,6 +39,9 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
+baseurl: /qortfolio
+url: https://qmelonimbus.github.io/
+
 kramdown:
   input: GFM
   syntax_highlighter_opts:
