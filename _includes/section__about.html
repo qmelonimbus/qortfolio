@@ -1,0 +1,22 @@
+<section class="about">
+  {% if include.divider == true %}
+    <div class="wrap"><hr/></div>
+    {% endif %}
+  <div class="wrap grid">
+
+    <div class="about__image">
+      <img src="/images/profile.jpg" alt="">
+    </div>
+
+    <div class="about__content">
+      <p class="subtitle subtitle--light">I’m a designer with over 5 years of experience, currently living in Brooklyn.
+      </p>
+
+      <p>My skills include software product design, interactive design, prototyping, mobile design, UX research, and consulting on a wide range of projects. 
+        </p>
+
+            {% include component-socials.html %}
+
+    </div>
+  </div>
+</section>
