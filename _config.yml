@@ -40,7 +40,7 @@ markdown: kramdown
 highlighter: rouge
 
 baseurl: /qortfolio
-url: https:/qmelonimbus.github.io/
+url: https://qmelonimbus.github.io/
 
 kramdown:
   input: GFM
