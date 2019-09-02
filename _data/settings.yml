@@ -11,7 +11,7 @@ menu_settings:
     - title: ''
       url: '/'
     - title: ''
-      url: '//'
+      url: '/'
 
 footer_settings:
   logo_image: 
