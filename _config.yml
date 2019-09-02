@@ -37,7 +37,6 @@ defaults:
       layout: "project"
 
 markdown: kramdown
-remote-theme: Made
 highlighter: rouge
 
 kramdown:
